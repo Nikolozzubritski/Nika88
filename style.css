@@ -1,0 +1,97 @@
+.image1 {
+display: inline-flex;
+align-items: center;
+gap: 12px;
+color: darkgray;
+font-size: 30px;
+font-weight: bold; 
+}
+
+.pirveli { 
+display: flex;
+justify-content: space-between;
+align-items: center;
+gap: 50px;
+padding: 40px 8%;
+}
+
+.pirveli1 { 
+width: 60%;  
+}
+
+.pirveli1 h1 {
+font-size: 36px;
+margin-bottom: 25px;
+
+}
+
+.pirveli1 p { 
+font-size: 16px;
+line-height: 1.7;
+margin-bottom: 30px;
+}
+
+.surati { 
+width: 308px;
+height: 376px;
+text-align: center;
+
+}
+
+.image2 {
+width: 100%;
+height: 300px;
+border: 5px solid darkgray;
+border-radius: 18px;
+margin-bottom: 20px;
+}
+
+.button1 {
+display: inline-block;
+background-color: green;
+color: white;
+padding: 12px 22px;
+border-radius: 25px;
+font-size: 14px;
+font-weight: bold;
+}
+.button2 {
+display: inline-block;
+background-color: green;
+color: white;
+padding: 12px 22px;
+border-radius: 25px;
+font-size: 14px;
+font-weight: bold;
+}
+.about {
+display: flex;
+align-items: center;
+gap: 40px;
+padding: 40px; 8%;
+}
+.about-images {
+width: 55%;
+}
+.about-images img {
+width: 388px;
+height: 278px;
+border-radius: 10px;
+}
+.about-images h3{
+color: green;
+font-size: 20px;
+margin-top: 15px;
+}
+.about-content {
+    width: 45%;
+}
+.about-content h2{
+font-size: 30px;
+margin-bottom: 25px;
+}
+.about-content p {
+font-size: 16px;
+line-height: 1.7;
+margin-bottom: 25px;
+}
